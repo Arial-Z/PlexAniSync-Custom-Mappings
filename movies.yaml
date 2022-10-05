@@ -1,9 +1,8 @@
 # PlexAniSync: TMDB Movie Mappings in English
 entries:
-  - title: "A Silent Voice: The Movie"
+  - title: "Jujutsu Kaisen 0"
     synonyms:
       - "Jujutsu Kaisen 0 Movie"
-      - "Jujutsu Kaisen 0"
     seasons:
       - season: 1
         anilist-id: 131573
