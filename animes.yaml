@@ -1,0 +1,11 @@
+# PlexAniSync: TheTVDB Series Mappings in English
+entries:
+  - title: "Space Brothers"
+    synonyms:
+      - "Uchuu Kyoudai"
+    seasons:
+      - season: 1
+        anilist-id: 12431
+      - season: 2
+        anilist-id: 12431
+        start: 52
