@@ -9,3 +9,10 @@ entries:
       - season: 2
         anilist-id: 12431
         start: 52
+  - title: "D.Gray-man"
+    seasons:
+      - season: 1
+        anilist-id: 1482
+      - season: 2
+        anilist-id: 1482
+        start: 52
