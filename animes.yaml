@@ -1,5 +1,9 @@
 # PlexAniSync: TheTVDB Series Mappings in English
 entries:
+  - title: "Bleach"
+    seasons:
+      - season: 17
+        anilist-id: 116674    
   - title: "Space Brothers"
     synonyms:
       - "Uchuu Kyoudai"
