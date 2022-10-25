@@ -6,3 +6,17 @@ entries:
     seasons:
       - season: 1
         anilist-id: 131573
+  - title: "Kyoukai no Kanata Movie : I'll Be Here - Kako-hen"
+    synonyms:
+      - "Kyoukai no Kanata Movie 1: I'll Be Here - Kako-hen"
+      - "Kyoukai no Kanata: I'LL BE HERE - Kako-hen"
+    seasons:
+      - season: 1
+        anilist-id: 20768
+  - title: "Kyoukai no Kanata Movie : I'll Be Here - Mirai-hen"
+    synonyms:
+      - "Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen"
+      - "Kyoukai no Kanata: I'LL BE HERE - Mirai-hen"
+    seasons:
+      - season: 1
+        anilist-id: 20963
