@@ -20,3 +20,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20963
+  - title: "I Want to Eat Your Pancreas"
+    synonyms:
+      - "Kimi no Suizou wo Tabetai"
+    seasons:
+      - season: 1
+        anilist-id: 99750
+  - title: "Digimon Adventure"
+    synonyms:
+      - "Digimon Adventure Movie"
+      - "Digimon Adventure (Movie)"
+    seasons:
+      - season: 1
+        anilist-id: 2961
