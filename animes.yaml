@@ -35,7 +35,7 @@ entries:
         anilist-id: 5258
       - season: 3
         anilist-id: 19647
-- title: "Himouto! Umaru-chan"
+  - title: "Himouto! Umaru-chan"
     seasons:
       - season: 1
         anilist-id: 20987
