@@ -1,6 +1,14 @@
 # PlexAniSync: TheTVDB Series Mappings in English
 entries:
-  - title: "Space Brothers"
+  - title: "The Heroic Legend of Arslan (2015)"
+    synonyms:
+      - "Arslan Senki (TV)"
+    seasons:
+      - season: 1
+        anilist-id: 20935
+      - season: 2
+        anilist-id: 21424
+- title: "Space Brothers"
     synonyms:
       - "Uchuu Kyoudai"
     seasons:
@@ -16,12 +24,32 @@ entries:
       - season: 2
         anilist-id: 1482
         start: 52
-  - title: "Himouto! Umaru-chan"
+  - title: "Fighting Spirit"
+    synonyms:
+      - "Hajime no Ippo"
+      - "Hajime no Ippo: THE FIGHTING!"
+    seasons:
+      - season: 1
+        anilist-id: 263
+      - season: 2
+        anilist-id: 5258
+      - season: 3
+        anilist-id: 19647
+- title: "Himouto! Umaru-chan"
     seasons:
       - season: 1
         anilist-id: 20987
       - season: 2
         anilist-id: 98572
+  - title: "The Quintessential Quintuplets"
+    synonyms:
+      - "5-toubun no Hanayome"
+      - "Go-toubun no Hanayome"
+    seasons:
+      - season: 1
+        anilist-id: 103572
+      - season: 2
+        anilist-id: 109261
   - title: "Uzaki-chan Wants to Hang Out!"
     synonyms:
       - "Uzaki-chan wa Asobitai!"
