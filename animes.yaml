@@ -8,6 +8,7 @@ entries:
         anilist-id: 20935
       - season: 2
         anilist-id: 21424
+        
   - title: "Space Brothers"
     synonyms:
       - "Uchuu Kyoudai"
@@ -17,6 +18,7 @@ entries:
       - season: 2
         anilist-id: 12431
         start: 52
+        
   - title: "D.Gray-man"
     seasons:
       - season: 1
@@ -24,6 +26,7 @@ entries:
       - season: 2
         anilist-id: 1482
         start: 52
+ 
   - title: "Fighting Spirit"
     synonyms:
       - "Hajime no Ippo"
@@ -35,12 +38,14 @@ entries:
         anilist-id: 5258
       - season: 3
         anilist-id: 19647
+ 
   - title: "Himouto! Umaru-chan"
     seasons:
       - season: 1
         anilist-id: 20987
       - season: 2
         anilist-id: 98572
+ 
   - title: "The Quintessential Quintuplets"
     synonyms:
       - "5-toubun no Hanayome"
@@ -50,6 +55,7 @@ entries:
         anilist-id: 103572
       - season: 2
         anilist-id: 109261
+ 
   - title: "Uzaki-chan Wants to Hang Out!"
     synonyms:
       - "Uzaki-chan wa Asobitai!"
