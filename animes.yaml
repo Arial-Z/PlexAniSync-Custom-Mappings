@@ -6,6 +6,8 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20935
+      - season: 2
+        anilist-id: 21424
         
   - title: "Space Brothers"
     synonyms:
