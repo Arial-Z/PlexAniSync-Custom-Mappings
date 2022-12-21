@@ -1,11 +1,5 @@
 # PlexAniSync: TMDB Movie Mappings in English
 entries:
-  - title: "Jujutsu Kaisen 0"
-    synonyms:
-      - "Jujutsu Kaisen 0 Movie"
-    seasons:
-      - season: 1
-        anilist-id: 131573
   - title: "Kyoukai no Kanata Movie : I'll Be Here - Kako-hen"
     synonyms:
       - "Kyoukai no Kanata Movie 1: I'll Be Here - Kako-hen"
