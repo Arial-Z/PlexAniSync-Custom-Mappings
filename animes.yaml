@@ -27,18 +27,6 @@ entries:
         anilist-id: 1482
         start: 52
  
-  - title: "Fighting Spirit"
-    synonyms:
-      - "Hajime no Ippo"
-      - "Hajime no Ippo: THE FIGHTING!"
-    seasons:
-      - season: 1
-        anilist-id: 263
-      - season: 2
-        anilist-id: 5258
-      - season: 3
-        anilist-id: 19647
- 
   - title: "Himouto! Umaru-chan"
     seasons:
       - season: 1
