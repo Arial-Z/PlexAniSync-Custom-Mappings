@@ -45,7 +45,14 @@ entries:
         anilist-id: 20987
       - season: 2
         anilist-id: 98572
- 
+
+  - title: "Princess Connect! Re:Dive"
+    seasons:
+      - season: 1
+        anilist-id: 107871
+      - season: 2
+        anilist-id: 122808
+        
   - title: "The Quintessential Quintuplets"
     synonyms:
       - "5-toubun no Hanayome"
@@ -64,3 +71,14 @@ entries:
         anilist-id: 115113
       - season: 2
         anilist-id: 124395
+
+  - title: "Welcome to Demon School! Iruma-kun"
+    synonyms:
+      - "Mairimashita! Iruma-kun"
+    seasons:
+      - season: 1
+        anilist-id: 107693
+      - season: 2
+        anilist-id: 116338
+      - season: 3
+        anilist-id: 139092
