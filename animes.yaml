@@ -26,13 +26,29 @@ entries:
       - season: 2
         anilist-id: 1482
         start: 52
- 
+
   - title: "Himouto! Umaru-chan"
     seasons:
       - season: 1
         anilist-id: 20987
       - season: 2
         anilist-id: 98572
+
+  - title: "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
+    synonyms:
+      - "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
+    seasons:
+      - season: 1
+        anilist-id: 20920
+      - season: 2
+        anilist-id: 101167
+      - season: 3
+        anilist-id: 112124
+      - season: 4
+        anilist-id: 129196
+      - season: 4
+        anilist-id: 155211
+        start : 12
 
   - title: "Princess Connect! Re:Dive"
     seasons:
