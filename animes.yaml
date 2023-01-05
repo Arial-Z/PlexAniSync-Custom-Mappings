@@ -66,6 +66,15 @@ entries:
         anilist-id: 103572
       - season: 2
         anilist-id: 109261
+
+  - title: "Tsurune"
+    synonyms:
+      - "Tsurune: Kazemai Koukou Kyuudou-bu"
+    seasons:
+      - season: 1
+        anilist-id: 100402
+      - season: 2
+        anilist-id: 153841
  
   - title: "Uzaki-chan Wants to Hang Out!"
     synonyms:
