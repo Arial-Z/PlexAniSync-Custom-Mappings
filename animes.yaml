@@ -27,12 +27,30 @@ entries:
         anilist-id: 1482
         start: 52
 
+  - title: "Don't Toy With Me, Miss Nagatoro"
+    synonyms:
+      - "Ijiranaide, Nagatoro-san"
+    seasons:
+      - season: 1
+        anilist-id: 120697
+      - season: 2
+        anilist-id: 140596
+
   - title: "Himouto! Umaru-chan"
     seasons:
       - season: 1
         anilist-id: 20987
       - season: 2
         anilist-id: 98572
+
+  - title: "In/Spectre"
+    synonyms:
+      - "Kyokou Suiri"
+    seasons:
+      - season: 1
+        anilist-id: 107201
+      - season: 2
+        anilist-id: 126529
 
   - title: "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
     synonyms:
@@ -104,3 +122,16 @@ entries:
         anilist-id: 116338
       - season: 3
         anilist-id: 139092
+
+  - title: "Yowamushi Pedal"
+    seasons:
+      - season: 1
+        anilist-id: 18179
+      - season: 2
+        anilist-id: 20723
+      - season: 3
+        anilist-id: 21407
+      - season: 4
+        anilist-id: 99476
+      - season: 5
+        anilist-id: 142481
