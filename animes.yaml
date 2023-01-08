@@ -75,7 +75,16 @@ entries:
         anilist-id: 100402
       - season: 2
         anilist-id: 153841
- 
+
+  - title: "To Your Eternity"
+    synonyms:
+      - "Fumetsu no Anata e"
+    seasons:
+      - season: 1
+        anilist-id: 114535
+      - season: 2
+        anilist-id: 138565
+
   - title: "Uzaki-chan Wants to Hang Out!"
     synonyms:
       - "Uzaki-chan wa Asobitai!"
